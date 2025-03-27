@@ -156,7 +156,7 @@ const ProductsDetail = () => {
 
 
       <div className="w-full text-center bg-[url(/BlockchainImage/bg5.png)] p-10 mb-5">
-        <h2 className="text-xl md:text-2xl text-white underline font-bold mb-5 md:mb-7">Blockchain As Solution</h2>
+        <h2 className="text-xl md:text-2xl text-white underline font-bold mb-5 md:mb-7">Blockchain As A Service (BAAS)</h2>
         <div className="grid grid-cols-1  ml-15  sm:grid-cols-2 lg:grid-cols-3 gap-6 ">
           {
             Data5.map((data, index) => (

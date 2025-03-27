@@ -36,7 +36,7 @@ const BlockchainSolutions = () => {
     },
     {
       image: Logo5,
-      title: "Blockchain As Solution",
+      title: "Blockchain As A Service",
       description:
         "BaaS enables businesses to develop, host, and deploy blockchain applications without managing the underlying infrastructure.",
     },
