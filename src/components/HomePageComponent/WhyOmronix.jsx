@@ -10,7 +10,7 @@ const WhyOmronix = () => {
                         <img src="/ProductImage/img1.png" alt="" className="w-28 rounded-xl h-24" />
                         <div className="choose_content flex flex-col gap-2">
                           <h1 className="text-lg font-bold">Compliance</h1>
-                          <p className="text-sm text-textColor font-semibold md-text-right">GDPR, TCPA, and local regulatory adherence.</p>
+                          <p className="text-sm text-textColor font-semibold  md-text-right">GDPR, TCPA, and local regulatory adherence.</p>
                         </div>
                       </div>
                       <div className="choose_container max-w-3/4 flex gap-10">
