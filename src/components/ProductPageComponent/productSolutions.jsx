@@ -12,7 +12,7 @@ const productSolutions = () => {
     image: Logo,
     title: "SMS SOLUTIONS",
     description:
-      "Enhance customer experiences with AI-driven personalization, leveraging advanced algorithms to tailor content and interactions in real time.",
+      "Deliver secure, real-time communication with OTPs, transactional updates, and personalized promotional messages.",
   });
 
   // Clickable container content data
@@ -21,25 +21,25 @@ const productSolutions = () => {
       image: Logo2,
       title: "VOICE SERVICES",
       description:
-        "Asset Tokenization: Convert real estate, art, or commodities into digital tokens.",
+        "Boost customer engagement with voice services like outbound calling, IVR, and missed call alerts.",
     },
     {
       image: Logo3,
       title: "Whatsapp Business API",
       description:
-        "Development, auditing, and deployment of self-executing contracts. Industries: DeFi, insurance, supply chain.",
+        "Leverage WhatsApp Business API for rich, interactive customer engagement with branded messaging.",
     },
     {
       image: Logo4,
       title: "Email Solutions",
       description:
-        "Instantly notify users about OTPs, service updates, and account activities.",
+        "Email services offer secure transactional emails for vital updates and personalized promotional campaigns to drive engagement.",
     },
     {
       image: Logo5,
       title: "Customer Engagement",
       description:
-        "Asset Tokenization: Convert real estate, art, or commodities into digital tokens.",
+        "Customer engagement is elevated through a unified dashboard, offering real-time insights and analytics across all campaigns.",
     },
   ]);
 
