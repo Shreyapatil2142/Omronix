@@ -19,7 +19,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div className="w-full h-20 bg-mid-blue flex justify-between items-center px-2 md:px-12 rounded-b-2xl sticky top-0 z-50">
+    <div className="w-full h-20 bg-blue-200 flex justify-between items-center px-2 md:px-12 rounded-b-2xl sticky top-0 z-50">
       <div className="logo font-bold flex md:h-8 h-5 items-center">
         <img src={Logo} alt="" className="md:w-30 w-22" />
         <h2 className="-ml-4">OMRONIX</h2>
@@ -30,8 +30,8 @@ const Navbar = () => {
         <a href="/" className="hover:underline">Home</a>
         <a href="/aboutus" className="hover:underline">About Us</a>
         <div className="relative dropdown-container">
-          <button 
-            className="hover:underline flex gap-2 justify-center items-center" 
+          <button
+            className="hover:underline flex gap-2 justify-center items-center"
             onClick={() => setDropdown(!dropdown)}
           >
             Services <FaCaretDown />
@@ -46,7 +46,7 @@ const Navbar = () => {
         </div>
         <a href="/contact" className="hover:underline">Contacts</a>
         <a href="/contact">
-          <button className="border rounded-xl px-5 py-2 font-bold">GET IN TOUCH</button>
+          <button className="border rounded-xl px-5 py-2 hover:bg-blue-600 bg-blue-950 text-white font-bold">GET IN TOUCH</button>
         </a>
       </div>
 
@@ -63,8 +63,8 @@ const Navbar = () => {
           <a href="/" className="py-2 hover:underline" onClick={() => setMobileMenu(false)}>Home</a>
           <a href="/aboutus" className="py-2 hover:underline" onClick={() => setMobileMenu(false)}>About Us</a>
           <div className="relative w-full text-center dropdown-container">
-            <button 
-              className="w-full py-2 hover:underline" 
+            <button
+              className="w-full py-2 hover:underline"
               onClick={() => setDropdown(!dropdown)}
             >
               Product &#8595;

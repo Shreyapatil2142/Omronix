@@ -32,32 +32,7 @@ export default function Example() {
               Blockchain Solutions
             </a>
           </MenuItem>
-          {/* <MenuItem>
-            <a
-              href="#"
-              className="block px-4 py-2 text-sm text-gray-700 data-focus:bg-gray-100 data-focus:text-gray-900 data-focus:outline-hidden"
-            >
-              Email Solutions
-            </a>
-          </MenuItem> */}
-         
-          {/* <MenuItem>
-            <a
-              href="#"
-              className="block px-4 py-2 text-sm text-gray-700 data-focus:bg-gray-100 data-focus:text-gray-900 data-focus:outline-hidden"
-            >
-                Whatsapp Business
-            </a>
-          </MenuItem> */}
 
-          {/* <MenuItem>
-            <a
-              href="#"
-              className="block px-4 py-2 text-sm text-gray-700 data-focus:bg-gray-100 data-focus:text-gray-900 data-focus:outline-hidden"
-            >
-              Customer Engagement
-            </a>
-          </MenuItem> */}
         </div>
       </MenuItems>
     </Menu>
