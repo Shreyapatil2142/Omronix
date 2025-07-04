@@ -41,7 +41,7 @@ Omronix/
 Clone the project
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/Shreyapatil2142/Omronix.git
 ```
 
 Go to the project directory
