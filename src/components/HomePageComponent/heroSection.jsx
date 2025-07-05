@@ -1,4 +1,4 @@
-import HeroSectionImg from "../../assets/HeroSection.png"
+import HeroSectionImg from "../../assets/heroSection.png"
 //#00246B, #CADCFC
 // bg-gradient-to-bl from-blue-50 to-blue-200
 
